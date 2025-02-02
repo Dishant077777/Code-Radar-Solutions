@@ -12,7 +12,7 @@ int main() {
 
     printf("Name: %s\n", a);
     printf("Age: %d\n", b);
-    print("Hobby: %s\n", c);
+    printf("Hobby: %s\n", c);
     return 0;
 
 }
