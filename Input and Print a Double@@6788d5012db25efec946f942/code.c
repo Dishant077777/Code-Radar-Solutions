@@ -1,6 +1,6 @@
 int main() {
     float a;
-    scanf("%f", &a);
+    scanf("%lf", &a);
 
     printf("You entered: %f.lf", a);
     return 0;
