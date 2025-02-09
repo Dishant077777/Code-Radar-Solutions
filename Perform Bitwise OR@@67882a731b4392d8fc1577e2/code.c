@@ -7,7 +7,7 @@ int main() {
 
     result = num1 | num2; 
 
-    printf("", result);
+    printf("Result of bitwise OR: %d\n", result);
 
     return 0;
 }
