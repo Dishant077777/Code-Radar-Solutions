@@ -5,7 +5,7 @@ int main() {
     printf("");
     scanf("%d %d", &num, &positions);
 
-    result = num >> positions; // Perform bitwise left shift operation
+    result = num >> positions; 
 
     printf("%d\n", result);
 
